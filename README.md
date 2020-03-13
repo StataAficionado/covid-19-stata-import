@@ -6,4 +6,4 @@ Usage:
 1. Save to Stata Personal directory.
 2. Start Stata, then type -covid-
 3. A file named covid.dta is created/replaced in the ~/Documents folder.
-4. A few time series graphics are run, you can adapt the chosen counutries in the program.
+4. A few time series graphics are run, you can adapt the chosen countries in the program.

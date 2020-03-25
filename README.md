@@ -7,3 +7,7 @@ Usage:
 2. Start Stata, then type -covid-
 3. A file named covid.dta is created/replaced in the ~/Documents folder.
 4. A few time series graphics are run, you can adapt the chosen countries in the program.
+
+# Update 25MAR2020
+Changes to adapt to new Johns Hopkins time series structure.
+Recovered cases are no longer provided.
